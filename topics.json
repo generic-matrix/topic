@@ -1,8 +1,9 @@
 {
-    "Topic":["GK","Maths","Reasoning","Engineering","Medical"],
+    "Topic":["GK","Maths","Reasoning","Engineering","Medical","India"],
     "GK":[],
     "Maths":["Normal","Advance"],
     "Reasoning":[],
     "Engineering":["Mechanical","Electrical","Electronics","Computer Science","Civil"],
-    "Medical":["BHMS","BAMS","BDS"]
+    "Medical":["BHMS","BAMS","BDS"],
+    "India":["Poltics","IST"]
 }
